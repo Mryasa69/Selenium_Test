@@ -40,4 +40,5 @@ namespace Assignment02_Testing.PageObjects
             return _driver.SwitchTo().Alert().Text;
         }
     }
+    
 }
